@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syl</h1>
 <h3 align="center">A passionate developer from Switzerland 🇨🇭</h3>
 
-<p><img align="center" src="https://www.hescsen.com/images/contact/me.jpg" alt="sylvainnicolet" /></p>
+<p><img width="250px" align="center" src="https://www.hescsen.com/images/contact/me.jpg" alt="sylvainnicolet" /></p>
 
 - 👨‍💻 All of my projects are available at [https://www.hescsen.com/](https://www.hescsen.com/)
 
