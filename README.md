@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syl</h1>
 <h3 align="center">A passionate developer from Switzerland 🇨🇭</h3>
-<h4 align="center">Developer <a href="https://www.liip.ch/">@liip</a> | Student <a href="https://www.42lausanne.ch/">@42Lausanne</a></h4>
+<h4 align="center">Developer <a href="https://www.liip.ch/">@Liip</a> | Student <a href="https://www.42lausanne.ch/">@42Lausanne</a></h4>
 
 <p><img align="center" src="img/header.jpg" alt="header" /></p>
 
