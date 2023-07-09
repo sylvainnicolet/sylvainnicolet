@@ -1,4 +1,4 @@
-<h2 align="center">Developer <a href="https://www.liip.ch/">@Liip</a> | Student <a href="https://www.42lausanne.ch/">@42Lausanne</a></h4> | Digital Artisan <a href="https://www.hescsen.com/">@hescsen</a></h4>
+<h2 align="center">Developer <a href="https://www.liip.ch/">@Liip</a> | Student <a href="https://www.42lausanne.ch/">@42Lausanne</a> | Digital Artisan <a href="https://www.hescsen.com/">@hescsen</a></h2>
 
 <p><img align="center" src="img/header.jpg" alt="header" /></p>
 
