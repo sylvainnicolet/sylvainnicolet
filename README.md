@@ -2,10 +2,6 @@
 
 <p><img align="center" src="img/header.jpg" alt="header" /></p>
 
-- 👨‍💻 All of my projects are available at [https://www.hescsen.com/](https://www.hescsen.com/)
-
-- 📫 How to reach me info@hescsen.com
-
 ---
 
 <h3 align="left">Statistics</h3>
