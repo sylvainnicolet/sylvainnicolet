@@ -1,5 +1,8 @@
-<h2 align="right">
+<h2>
   Digital Artisan <a href="https://www.hescsen.com/">@hescsen</a> 🚀
+</h2>
+
+<h2>
   Student <a href="https://www.42lausanne.ch/">@42Lausanne</a> 💻
 </h2>
 
