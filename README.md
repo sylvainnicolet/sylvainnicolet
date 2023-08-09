@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="left">Statistics</h3>
+<h2 align="left">Statistics</h2>
 
 <p>&nbsp;<img align="center" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=sylvainnicolet&show_icons=true&locale=en" alt="stats" /></p>
 
