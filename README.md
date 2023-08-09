@@ -1,9 +1,3 @@
-<h2>
-  Digital Artisan <a href="https://www.hescsen.com/">@hescsen</a> 🚀 | Student <a href="https://www.42lausanne.ch/">@42Lausanne</a> 💻
-</h2>
-  
-</h2>
-
 <div id="header" align="center">
 	<div id="badges">
 		<a href="https://www.linkedin.com/in/sylvainnicolet/">
@@ -19,7 +13,14 @@
 
 ---
 
-<h2 align="left">Statistics</h2>
+## About
+
+- Digital Artisan <a href="https://www.hescsen.com/">@hescsen</a> 🚀
+- Student <a href="https://www.42lausanne.ch/">@42Lausanne</a> 💻
+
+---
+
+## Statistics
 
 <p>&nbsp;<img align="center" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=sylvainnicolet&show_icons=true&locale=en" alt="stats" /></p>
 
