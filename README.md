@@ -1,5 +1,6 @@
 
 <h1 align="center">Sylvain Nicolet</h1>
+
 📌 From Switzerland 🇨🇭
 
 <div id="header" align="center">
