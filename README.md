@@ -4,6 +4,14 @@
   
 </h2>
 
+<div id="header" align="center">
+	<div id="badges">
+		<a href="https://www.linkedin.com/in/sylvainnicolet/">
+			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+		</a>
+	</div>
+</div>
+
 <p><img align="center" src="img/header.jpg" alt="header" /></p>
 
 ---
