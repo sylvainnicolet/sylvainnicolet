@@ -1,3 +1,6 @@
+
+<h1 align="center">Sylvain Nicolet</h1>
+
 <div id="header" align="center">
 	<div id="badges">
 		<a href="https://www.linkedin.com/in/sylvainnicolet/">
