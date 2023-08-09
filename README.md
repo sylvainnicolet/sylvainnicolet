@@ -18,6 +18,8 @@
 - Digital Artisan <a href="https://www.hescsen.com/">@hescsen</a> 🚀
 - Student <a href="https://www.42lausanne.ch/">@42Lausanne</a> 💻
 
+📫 Reach me: info@hescsen.com
+
 ---
 
 ## Statistics
