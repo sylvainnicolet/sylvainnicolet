@@ -1,7 +1,7 @@
 
 <h1 align="center">Sylvain Nicolet</h1>
 
-<p align="center">*📌 From Switzerland 🇨🇭</p>
+<i align="center">📌 From Switzerland 🇨🇭</i>
 
 <div id="header" align="center">
 	<div id="badges">
